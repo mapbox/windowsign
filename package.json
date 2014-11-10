@@ -1,6 +1,6 @@
 {
   "name": "windowsign",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Sign a windows executable from linux",
   "author": "Mapbox",
   "license": "ISC",
