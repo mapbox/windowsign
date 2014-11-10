@@ -3,7 +3,7 @@
 FILE=$1
 
 if [[ -z "$N" ]] || [[ -z "$I" ]] || [[ -z "$P" ]] || [[ -z "$SPC" ]] || [[ -z "$PVK" ]] || [[ -z "$1" ]]; then
-    echo "Usage: N=<name> I=<info> P=<pw> SPC=<spc file> PVK=<pvk file> windowsign.sh <file.exe>"
+    echo "Usage: N=<name> I=<info> P=<pw> SPC=<spc file> PVK=<pvk file> windowsign <file.exe>"
     exit 1
 fi
 
