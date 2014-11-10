@@ -1,3 +1,5 @@
+![travis](https://travis-ci.org/mapbox/windowsign.svg)
+
 windowsign
 ==========
 Sign a windows executable from linux. Requires a code signing certificate.
