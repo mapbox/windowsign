@@ -1,0 +1,12 @@
+{
+  "name": "windowsign",
+  "version": "0.0.0",
+  "description": "Sign a windows executable from linux",
+  "author": "Mapbox",
+  "license": "ISC",
+  "private": true,
+  "main": "./package.json",
+  "bin": {
+    "windowsign": "./windowsign"
+  }
+}
